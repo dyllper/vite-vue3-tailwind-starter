@@ -1,7 +1,20 @@
-# Vue 3 + Vite
+This starter template includes:
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+- [Vite](https://vitejs.dev/guide/)
+- [Vue 3](https://vuejs.org/guide/introduction.html)
+- [Tailwind CSS v3](https://tailwindcss.com/docs/configuration)
+- [Vue Router v4](https://github.com/vuejs/router)
 
-## Recommended IDE Setup
+It also includes path aliasing using `@`
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+# Getting Started
+
+```sh
+npx degit dyllper/vite-vue3-tailwind-started my-app-name
+cd my-app-name
+```
+
+```sh
+npm i
+npm run dev
+```
