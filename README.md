@@ -1,3 +1,5 @@
+# Vite + Vue 3 + Tailwindcss + Vue Router v4
+
 This starter template includes:
 
 - [Vite](https://vitejs.dev/guide/)
